@@ -3,6 +3,7 @@ GT Homework for MatPlotLib Section
 
 
 Refrences for Syntax
+
 Class Lessons in our Gitlab Folder
 
 Pandas Documentation
