@@ -8,29 +8,26 @@ Refrences for Syntax
 Class Lessons in our Gitlab Folder
 
 Pandas Documentation
-https://pandas.pydata.org/docs/reference/api/pandas.merge.html?highlight=merge#pandas.merge
-https://pandas.pydata.org/docs/reference/series.html
+Pandas. (n.d.). "Pandas.merge". https://pandas.pydata.org/docs/reference/api/pandas.merge.html?highlight=merge#pandas.merge
+Pandas. (n.d.). "Series Constructor". https://pandas.pydata.org/docs/reference/series.html
 
 MatPlotLib CheatSheet/Documentation
-https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+Matplotlib development team. (n.d.). "matplotlib.pyplot.plot". https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
 
+Goyal,C. (2021, May 19). "Feature Engineering – How to Detect and Remove Outliers (with Python Code)". Analytics Vidhya. https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
 
-https://www.webucator.com/article/python-color-constants-module/
+Shane. (n.d.). "Pandas iloc and loc – quickly select rows and columns in DataFrames". Shane Lynn Data science, Startups, Analytics, and Data visualisation. https://www.shanelynn.ie/pandas-iloc-loc-select-rows-and-columns-dataframe/
 
-https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/
+TutorialsTeacher. (n.d.). "Python exec() Method". https://www.tutorialsteacher.com/python/exec-method
 
-https://www.shanelynn.ie/pandas-iloc-loc-select-rows-and-columns-dataframe/
+Python. (n.d.). "8. Compound Statements". https://docs.python.org/3/reference/compound_stmts.html
 
-https://www.tutorialsteacher.com/python/exec-method
+Thomas, S. (2022, Jan 24). "Calculate Outlier Formula: A Step-By-Step Guide". Outlier. https://articles.outlier.org/calculate-outlier-formula#section-how-to-find-outliers-in-a-data-set
 
-https://docs.python.org/3/reference/compound_stmts.html
+Zach. (2020, Aug 21). "How to Calculate The Interquartile Range in Python". Statology. https://www.statology.org/interquartile-range-python/
 
-https://articles.outlier.org/calculate-outlier-formula#section-how-to-find-outliers-in-a-data-set
+saurabh48782. (2021, Dec 2). "How to use Pandas filter with IQR?". GeeksforGeeks. https://www.geeksforgeeks.org/how-to-use-pandas-filter-with-iqr/
 
-https://www.statology.org/interquartile-range-python/
+DelftStack. (2020, Dec 5). "Convert Pandas DataFrame Column to List". https://www.delftstack.com/howto/python-pandas/pandas-column-to-list/
 
-https://www.geeksforgeeks.org/how-to-use-pandas-filter-with-iqr/
-
-https://www.delftstack.com/howto/python-pandas/pandas-column-to-list/
-
-https://datagy.io/empty-pandas-dataframe/
+datagy. (2021, Aug 23). "Create an Empty Pandas Dataframe and Append Data".  https://datagy.io/empty-pandas-dataframe/
