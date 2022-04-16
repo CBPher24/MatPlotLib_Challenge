@@ -1,6 +1,7 @@
 # MatPlotLib_Challenge
 GT Homework for MatPlotLib Section
 
+From the bar plot made about the number of timepoints per drug regimen, I can gather that mice in Capomulin and Ramicane survived longer than all the other drug trials. Further more on this, Capomulin was maybe had a little bit higher survival rate which by looking at the line chart made on mouse s185 the drug was successful in reducing the size of the tumor. Going off the correlation coefficient being at 0.84 and the linear regression model, we can see there is a pretty strong relation to how much a mouse weighed and the size of their tumor.
 
 Refrences for Syntax
 
