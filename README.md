@@ -9,6 +9,7 @@ Class Lessons in our Gitlab Folder
 
 Pandas Documentation
 Pandas. (n.d.). "Pandas.merge". https://pandas.pydata.org/docs/reference/api/pandas.merge.html?highlight=merge#pandas.merge
+
 Pandas. (n.d.). "Series Constructor". https://pandas.pydata.org/docs/reference/series.html
 
 MatPlotLib CheatSheet/Documentation
